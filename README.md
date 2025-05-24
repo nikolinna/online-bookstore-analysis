@@ -11,3 +11,5 @@ The goal of this project is to simulate and analyze sales and inventory data fro
 - MySQL - for database creation and queries
 - Python (pandas, matplotlib) - for data manipulation and visualization
 - Jupyter Notebook - for presenting the analysis
+
+>To run this notebook, update the database connection details with your own credentials.
